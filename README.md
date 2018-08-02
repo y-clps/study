@@ -1,4 +1,4 @@
 # study
 プログラミングのおべんきょう
 
-directory for learning programming
+for learning programming
