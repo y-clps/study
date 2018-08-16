@@ -1,0 +1,1 @@
+オライリー Scikit-LearnとTensorFlowによる実践機械学習 をやっていく
